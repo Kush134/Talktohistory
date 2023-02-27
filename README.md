@@ -1,8 +1,4 @@
-# Talk To History: Treehacks 2023
-
-> Step into your textbook. Read about history and then talk to the people in the passage, just like the magical portraits in Harry Potter.
-> 
-> Winner of Best Chat App (sponsored by you.com, $2k) 
+# Talk To History
 
 ## Inspiration
 
